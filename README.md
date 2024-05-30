@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunnan191
-- 👀 I’m interested in ppt/pr
+- 👀 I’m interested in NLP/LLM
 - 🌱 I’m currently learning git/python/html
 
 <!---
