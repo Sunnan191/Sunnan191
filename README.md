@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunnan191
-- 👀 I’m interested in NLP/LLM
+- 👀 I’m interested in NLP/LLM/Gragh
 - 🌱 I’m currently learning git/python/html
 
 <!---
